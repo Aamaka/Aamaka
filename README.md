@@ -32,4 +32,4 @@ You can click the Preview link to take a look at your changes.
 
  
 
-[linkedin]: https://www.linkedin.com/in/favour-chiamaka-79b4ba241/
+[linkedin]: https://www.linkedin.com/in/chiamaka-ezeirunne-79b4ba241/
