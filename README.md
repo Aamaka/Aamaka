@@ -1,16 +1,35 @@
-### Hi there 👋
+- 👋 Hi, I’m Ezeirunne Chiamaka
 
-<!--
-**Aamaka/Aamaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m interested in Java, python, javascript and golang
 
-Here are some ideas to get you started:
+- 📫 How to reach me: ezeirunnechiamaka@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+<!---
+
+Aamaka/Aamaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+You can click the Preview link to take a look at your changes.
+
+--->
+
+ 
+
+ 
+
+### Connect with Me 🤝
+
+👔 [linkedin][linkedin] **|**
+
+🗃️ [Gmail] ezeirunnechiamaka@gmail.com
+
+ 
+
+[![Chiamaka's github stats](https://github-readme-stats.vercel.app/api?username=Aamaka)](https://github.com/Aamaka/github-readme-stats)
+
+ 
+
+ 
+
+[linkedin]: https://www.linkedin.com/in/favour-chiamaka-79b4ba241/
