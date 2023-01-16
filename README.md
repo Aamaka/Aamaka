@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ezeirunne Chiamaka
 
-- 👀 I’m interested in Java, python, javascript and golang
+- 👀 I’m interested in Java, python, Bitcoin
 
 - 📫 How to reach me: ezeirunnechiamaka@gmail.com
 
