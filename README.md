@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ezeirunne Chiamaka
+- 👋 Hi, I’m Chiamaka Ezeirunne
 
 - 👀 I’m interested in Java, python, Bitcoin
 
